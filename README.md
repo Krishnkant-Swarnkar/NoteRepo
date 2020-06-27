@@ -2,6 +2,8 @@
 
 In this repository, I aim to maintain the notes (/my takeaways) from the books as I read them.
 
+I use [typora](https://typora.io/) to update/read these md files. Encourage you to use it as well (coz github doesn't allow use of latex style math equations).
+
 Btw, if you go through the notes, see some <mark>Questions</mark>, and feel like u can answer them, please feel free to reach me out. I would be more than happy to update my answers (if they convince me).
 
 Also, I more than welcome any reading suggestions.
